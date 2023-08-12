@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GoDev App](https://godevapp.netlify.app/)
 
-- 🌱 I’m currently learning **Data Analysis & Machine Learning**
+- 🌱 I’m currently learning **Data Visualization**
 
 - 👨‍💻 All of my projects are available at [https://sumairalam.com](https://sumairalam.com)
 
